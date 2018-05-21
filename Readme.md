@@ -8,4 +8,5 @@ Escritos en python usando [Google Colab](https://colab.research.google.com) y to
 * Ec. diferenciales elipticas
     * Ec. de Poisson
 * Ec. diferenciales hiperbólicas
-    * Ec. de la onda 1D y 2D   
+    * Ec. de la onda 1D 
+    * Ec. (onda 2D)[https://colab.research.google.com/github/cristianccq/EDPnumeric/blob/master/Onda2D.ipynb]
